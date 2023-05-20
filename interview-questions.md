@@ -8,25 +8,39 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What does calling super do in a Ruby class?
 
-Your answer:
+    Your answer:To get instance variable from the parent class to child class.
 
 Researched answer:
+    
+    Calling super will passes the arguments form parent class to the child class.
 
 2. What is a gem?
 
-Your answer:
+Your answer: 
+
+    Gem is a package manager for Ruby.
 
 Researched answer:
+
+    Gem is the default package manager for Ruby.
 
 3. What is a relational database? Are there other kinds of databases?
 
 Your answer:
 
+    Relational database is generated within a format and when attmpt to  changing the database it affect the whole. There are other kinds of databases.
+
 Researched answer:
+
+    A relational database is a type of database that organizes and stores data in tables with rows and columns.
+    Other database that serves different purpose are:
+    Object-oriented database - it store data 
 
 4. What are primary keys? Why purpose does a primary key serve?
 
-Your answer:
+Your answer: 
+
+    Primary keys is the first element in database table, it's an id that need to be unique so we can do CRUD to specific data.
 
 Researched answer:
 
